@@ -5,7 +5,7 @@ import { BILLING_INTERVAL, type PricingPlan } from '@/types/Subscription';
 const localePrefix: LocalePrefix = 'as-needed';
 
 export const AppConfig = {
-  name: 'AgentSec',
+  name: 'ToyuguoSec',
   locales: [
     {
       id: 'en',
@@ -52,7 +52,7 @@ export const PricingPlanList: Record<string, PricingPlan> = {
     price: 49,
     interval: BILLING_INTERVAL.MONTH,
     testPriceId: 'price_premium_test',
-    devPriceId: 'price_1PNksvKOp3DEwzQlGOXO7YBK',
+    devPriceId: 'price_1TCZlpRq21BIRPfFmiPPMuIH',
     prodPriceId: '',
     features: {
       teamMember: 10,
@@ -66,7 +66,7 @@ export const PricingPlanList: Record<string, PricingPlan> = {
     price: 299,
     interval: BILLING_INTERVAL.MONTH,
     testPriceId: 'price_enterprise_test',
-    devPriceId: 'price_1PNksvKOp3DEwzQli9IvXzgb',
+    devPriceId: 'price_1TCZmLRq21BIRPfFUKlF8IdQ',
     prodPriceId: 'price_123',
     features: {
       teamMember: 999,

@@ -19,8 +19,6 @@ const isProtectedRoute = createRouteMatcher([
   '/:locale/dashboard(.*)',
   '/onboarding(.*)',
   '/:locale/onboarding(.*)',
-  '/api(.*)',
-  '/:locale/api(.*)',
 ]);
 
 export default function middleware(
@@ -69,5 +67,5 @@ export default function middleware(
 }
 
 export const config = {
-  matcher: ['/((?!.+\\.[\\w]+$|_next|monitoring).*)', '/', '/(api|trpc)(.*)'], // Also exclude tunnelRoute used in Sentry from the matcher
+  matcher: ['/((?!.+\\.[\\w]+$|_next|monitoring|api).*)', '/'], // Also exclude tunnelRoute used in Sentry from the matcher
 };

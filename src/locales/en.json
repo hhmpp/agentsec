@@ -1,6 +1,6 @@
 {
   "Index": {
-    "meta_title": "AgentSec - Identity & Security Platform for AI Agents",
+    "meta_title": "ToyuguoSec - Identity & Security Platform for AI Agents",
     "meta_description": "The trust layer for AI Agents. Verify identity, monitor behavior, and detect threats in real time."
   },
   "Navbar": {
@@ -13,7 +13,7 @@
     "company": "Company"
   },
   "Hero": {
-    "follow_twitter": "Follow @AgentSec on Twitter",
+    "follow_twitter": "Follow @ToyuguoSec on Twitter",
     "title": "The <important>trust layer</important> for your AI Agents.",
     "description": "Verify Agent identity, track credit scores, and detect anomalous behavior in real time. Built for developers who take AI security seriously.",
     "primary_button": "Get Started Free",
@@ -25,7 +25,7 @@
   "Features": {
     "section_subtitle": "Features",
     "section_title": "Everything you need to secure your AI Agents",
-    "section_description": "AgentSec gives every AI Agent a verifiable identity, a credit score, and real-time security monitoring — so you know exactly what your Agents are doing.",
+    "section_description": "ToyuguoSec gives every AI Agent a verifiable identity, a credit score, and real-time security monitoring — so you know exactly what your Agents are doing.",
     "feature1_title": "Agent Identity",
     "feature2_title": "Credit Scoring",
     "feature3_title": "Anomaly Detection",
@@ -57,12 +57,12 @@
     "next_renew_date": "Your subscription renews on {date}"
   },
   "FAQ": {
-    "question": "Do I need to give AgentSec access to my Agent's source code?",
-    "answer": "No. AgentSec works by integrating a lightweight open-source SDK into your Agent. The SDK only reports behavioral metadata — action types, success/failure status, timestamps — and never sends raw data, prompts, or business logic to our servers."
+    "question": "Do I need to give ToyuguoSec access to my Agent's source code?",
+    "answer": "No. ToyuguoSec works by integrating a lightweight open-source SDK into your Agent. The SDK only reports behavioral metadata — action types, success/failure status, timestamps — and never sends raw data, prompts, or business logic to our servers."
   },
   "CTA": {
     "title": "Ready to secure your Agents?",
-    "description": "Join developers who trust AgentSec to monitor and verify their AI Agents.",
+    "description": "Join developers who trust ToyuguoSec to monitor and verify their AI Agents.",
     "button_text": "Get Started Free"
   },
   "Footer": {
@@ -80,11 +80,11 @@
   },
   "SignIn": {
     "meta_title": "Sign in",
-    "meta_description": "Sign in to your AgentSec account."
+    "meta_description": "Sign in to your ToyuguoSec account."
   },
   "SignUp": {
     "meta_title": "Sign up",
-    "meta_description": "Create your AgentSec account and start securing your Agents today."
+    "meta_description": "Create your ToyuguoSec account and start securing your Agents today."
   },
   "DashboardLayout": {
     "home": "Home",
@@ -94,12 +94,12 @@
     "settings": "Settings"
   },
   "Dashboard": {
-    "meta_title": "AgentSec Dashboard",
+    "meta_title": "ToyuguoSec Dashboard",
     "meta_description": "Monitor and manage your AI Agents from one place."
   },
   "DashboardIndex": {
     "title_bar": "Dashboard",
-    "title_bar_description": "Welcome to AgentSec",
+    "title_bar_description": "Welcome to ToyuguoSec",
     "message_state_title": "Register your first Agent",
     "message_state_description": "Install the SDK and register your Agent to start monitoring. Edit <code>dashboard/page.tsx</code> to customize.",
     "message_state_button": "View on GitHub",
