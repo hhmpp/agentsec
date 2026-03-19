@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/hhmpp/agentsec/compare/v1.0.0...v1.1.0) (2026-03-19)
+
+
+### Bug Fixes
+
+* remove env from tracking ([1a648ce](https://github.com/hhmpp/agentsec/commit/1a648ce8f944ff461624545ef33e8b878a97794e))
+
+
+### Features
+
+* dashboard billing database ([cc67689](https://github.com/hhmpp/agentsec/commit/cc67689dbe1f44b2ad49f48749e9d25d7c8ff929))
+
 # 1.0.0 (2026-03-18)
 
 
