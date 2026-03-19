@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/hhmpp/agentsec/compare/v1.1.0...v1.1.1) (2026-03-19)
+
+
+### Bug Fixes
+
+* pathname null check ([43fcb2c](https://github.com/hhmpp/agentsec/commit/43fcb2cfe70761370b483df4309bc6c7c0f815dc))
+
 # [1.1.0](https://github.com/hhmpp/agentsec/compare/v1.0.0...v1.1.0) (2026-03-19)
 
 
