@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/hhmpp/agentsec/compare/v1.1.1...v1.2.0) (2026-03-23)
+
+
+### Features
+
+* remove demo banner and sponsors ([16edc43](https://github.com/hhmpp/agentsec/commit/16edc43bd211dd1951dab433916ff749eaeb2297))
+
 ## [1.1.1](https://github.com/hhmpp/agentsec/compare/v1.1.0...v1.1.1) (2026-03-19)
 
 
